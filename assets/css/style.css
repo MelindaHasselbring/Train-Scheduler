@@ -1,0 +1,56 @@
+
+    body    {  
+     background: url("../images/blazing-trolley.jpg" );
+     -webkit-background-size: cover; 
+
+        }
+
+.container {
+      margin-top:  10px;
+  }
+
+/*.container {
+    color: #337AB7;
+    text-align: center;
+    margin:  20px;
+    background-color: white; 
+}*/
+
+.jumbotron  h2 h3{
+    color: #337AB7;
+    text-align: center;
+    margin:  20px;
+    /*background-color: white; */
+}
+
+
+
+
+
+.jumbotron {
+  text-shadow: 1px 1px 4px #000;
+  background-color: #FFFFFF!important;
+ opacity: .80;
+    margin-left: 150px!important;
+    margin-right: 150px!important;
+    border-radius: 6px!important;
+}
+
+
+
+.panel {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+ .panel-body {
+     padding: 0; 
+
+}
+
+.form-group {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+
